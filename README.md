@@ -1,2 +1,1 @@
-# even-number-filter-js
-# Even Number Filter A mini JavaScript project to store numbers and show only even numbers.  ## Concepts used: - Arrays - push() - filter() - DOM manipulation - Event listeners
+This is a small JavaScript project that allows users to enter numbers into an input box and displays only the even numbers. It uses arrays, the push() and filter() methods, DOM manipulation, and event listeners. The project is beginner-friendly and helps practice core JavaScript concepts while creating a functional interactive app.

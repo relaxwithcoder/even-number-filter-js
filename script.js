@@ -14,4 +14,12 @@ button.addEventListener("click", () => {
     output.innerText = evennumbers.join(", ")
 
     input.value = ""
+
 })
+
+const resetbtn = document.getElementById("resetbtn")
+
+resetbtn.addEventListener("click", () => {
+    numbers=[];
+    output.innerText="";
+});
